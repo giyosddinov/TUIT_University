@@ -1,0 +1,3 @@
+C:\Users\01\Desktop\projekt\GUI muxit\muxammad_ali\muxammad_ali\x64\Debug\muxammad_ali.vcxproj.AssemblyReference.cache
+C:\Users\01\Desktop\projekt\GUI muxit\muxammad_ali\muxammad_ali\x64\Debug\muxammadali.MyForm.resources
+C:\Users\01\Desktop\projekt\GUI muxit\muxammad_ali\muxammad_ali\x64\Debug\muxammad_ali.vcxproj.GenerateResource.cache

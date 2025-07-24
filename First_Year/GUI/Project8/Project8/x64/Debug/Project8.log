@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\01\Desktop\projekt\GUI muxit\Project8\Project8\MyForm.cpp(5,6): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project8.vcxproj -> C:\Users\01\Desktop\projekt\GUI muxit\Project8\x64\Debug\Project8.exe

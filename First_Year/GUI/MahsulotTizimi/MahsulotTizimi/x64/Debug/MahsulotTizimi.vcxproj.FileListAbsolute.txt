@@ -1,0 +1,3 @@
+C:\Users\01\Desktop\projekt\GUI muxit\MahsulotTizimi\MahsulotTizimi\x64\Debug\MahsulotTizimi.vcxproj.AssemblyReference.cache
+C:\Users\01\Desktop\projekt\GUI muxit\MahsulotTizimi\MahsulotTizimi\x64\Debug\MahsulotTizimi.MyForm.resources
+C:\Users\01\Desktop\projekt\GUI muxit\MahsulotTizimi\MahsulotTizimi\x64\Debug\MahsulotTizimi.vcxproj.GenerateResource.cache
